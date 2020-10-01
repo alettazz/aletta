@@ -1065,7 +1065,8 @@ pre code {
     .col-md-3 {
         -ms-flex: 0 0 25%;
         flex: 0 0 25%;
-        max-width: 25%
+        max-width: 25%;
+        background-color: #EBBA1C
     }
     .col-md-4 {
         -ms-flex: 0 0 33.333333%;
@@ -1082,6 +1083,11 @@ pre code {
         flex: 0 0 50%;
         max-width: 50%
     }
+    .col-md-6-2 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
     .col-md-7 {
         -ms-flex: 0 0 58.333333%;
         flex: 0 0 58.333333%;
@@ -1095,7 +1101,7 @@ pre code {
     .col-md-9 {
         -ms-flex: 0 0 75%;
         flex: 0 0 75%;
-        max-width: 75%
+        max-width: 75%;
     }
     .col-md-10 {
         -ms-flex: 0 0 83.333333%;
