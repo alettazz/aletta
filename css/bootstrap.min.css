@@ -767,6 +767,9 @@ pre code {
     padding-left: 15px
 }
 
+.col-md-3 {
+    background-color: #EBBA1C
+}
 .col {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -1066,7 +1069,6 @@ pre code {
         -ms-flex: 0 0 25%;
         flex: 0 0 25%;
         max-width: 25%;
-        background-color: #EBBA1C
     }
     .col-md-4 {
         -ms-flex: 0 0 33.333333%;
